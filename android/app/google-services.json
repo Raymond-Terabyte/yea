@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "606255733079",
+    "project_id": "knightlife-6e7bc",
+    "storage_bucket": "knightlife-6e7bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606255733079:android:87123caf50eb581b708612",
+        "android_client_info": {
+          "package_name": "com.example.knightlife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606255733079-g72d5j4dtqk74umstmp69nhqjuag3qgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0wioLtSuK76SIjGqXgGlrDXtW8mb0sPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606255733079-g72d5j4dtqk74umstmp69nhqjuag3qgf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "606255733079-qsf4n7ggoa7l7d5s0n1tss09b439ksd5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.knightlife"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
